@@ -1,5 +1,13 @@
 # @backstage/core-app-api
 
+## 0.1.9
+
+### Patch Changes
+
+- 72a31c29a: Add support for additional app origins
+- Updated dependencies
+  - @backstage/config@0.1.7
+
 ## 0.1.8
 
 ### Patch Changes

@@ -1,5 +1,14 @@
 # @backstage/plugin-catalog-import
 
+## 0.5.18
+
+### Patch Changes
+
+- ced85b598: Fix importing yaml files from URLs with trailing query parameters.
+- Updated dependencies
+  - @backstage/plugin-catalog-react@0.4.3
+  - @backstage/integration@0.6.1
+
 ## 0.5.17
 
 ### Patch Changes

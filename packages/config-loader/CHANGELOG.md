@@ -1,5 +1,13 @@
 # @backstage/config-loader
 
+## 0.6.7
+
+### Patch Changes
+
+- 9b8cec063: Add support for config file watching through a new group of `watch` options to `loadConfig`.
+- Updated dependencies
+  - @backstage/config@0.1.7
+
 ## 0.6.6
 
 ### Patch Changes

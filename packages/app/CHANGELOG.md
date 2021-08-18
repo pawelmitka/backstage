@@ -1,5 +1,19 @@
 # example-app
 
+## 0.2.42
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-scaffolder@0.11.1
+  - @backstage/plugin-home@0.2.0
+  - @backstage/cli@0.7.9
+  - @backstage/core-app-api@0.1.9
+  - @backstage/plugin-catalog-import@0.5.18
+  - @backstage/plugin-catalog@0.6.12
+  - @backstage/plugin-jenkins@0.5.4
+  - @backstage/plugin-catalog-react@0.4.3
+
 ## 0.2.41
 
 ### Patch Changes
